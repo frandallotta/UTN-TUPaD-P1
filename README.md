@@ -5,7 +5,7 @@ Tecnicatura Universitaria en Programación
 # ✨ Estudiante
 Nombre: Gasparin D'Allotta, Franco
 
-Comisión: M2025-7 [Modificar con su comisión, donde 7 es el número de comisión]
+Comisión: Ag25-1C-05
 
 # 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
